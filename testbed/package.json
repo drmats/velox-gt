@@ -1,0 +1,11 @@
+{
+    "license": "BSD-2-Clause",
+    "name": "testbed",
+    "private": true,
+    "scripts": {
+        "build": "gatsby build",
+        "clean": "gatsby clean",
+        "develop": "gatsby develop"
+    },
+    "version": "0.0.1"
+}

@@ -1,0 +1,6 @@
+{
+    "license": "BSD-2-Clause",
+    "main": "index.js",
+    "name": "gatsby-theme-velox",
+    "version": "0.0.1"
+}
